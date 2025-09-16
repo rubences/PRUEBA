@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EcoCiudad</string>
+    <string name="welcome_message">Bienvenido a Eco-Ciudad</string>
+    <string name="btn_calendar">Calendario de Recolección</string>
+    <string name="btn_map">Puntos de Reciclaje</string>
+    <string name="btn_stats">Mis Estadísticas</string>
+    <string name="calendar_title">Calendario de Recolección</string>
+    <string name="map_title">Puntos de Reciclaje</string>
+    <string name="stats_title">Mis Estadísticas</string>
+    <string name="recycle_count">Bolsas recicladas este mes: %d</string>
+    <string name="btn_add_bag">+1 Bolsa Reciclada</string>
+</resources>
