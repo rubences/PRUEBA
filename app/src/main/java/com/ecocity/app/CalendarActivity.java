@@ -23,7 +23,7 @@ public class CalendarActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
-        Log.d(TAG, "onStart called");
+        Log.d(TAG, "onStart llamada called");
     }
 
     @Override
