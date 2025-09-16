@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EcoCiudad</string>
+    <string name="welcome_message">Bienvenido a Eco-Ciudad</string>
+    <string name="calendar_button">Calendario de Recolección</string>
+    <string name="map_button">Puntos de Reciclaje</string>
+    <string name="stats_button">Mis Estadísticas</string>
+</resources>
