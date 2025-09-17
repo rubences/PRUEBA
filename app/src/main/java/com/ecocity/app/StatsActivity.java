@@ -20,13 +20,13 @@ public class StatsActivity extends AppCompatActivity {
         }
 
         TextView tvRecycleCount = findViewById(R.id.tvRecycleCount);
-        tvRecycleCount.setText("Bolsas recicladas este mes: " + recycleCount);
+        tvRecycleCount.setText(getString(R.string.recycled_bags_count, recycleCount));
 
         findViewById(R.id.btnAddBag).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 recycleCount++;
-                tvRecycleCount.setText("Bolsas recicladas este mes: " + recycleCount);
+                tvRecycleCount.setText(getString(R.string.recycled_bags_count, recycleCount));
             }
         });
     }
