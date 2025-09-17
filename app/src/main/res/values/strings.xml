@@ -4,4 +4,10 @@
     <string name="calendar_button">Calendario de Recolección</string>
     <string name="map_button">Puntos de Reciclaje</string>
     <string name="stats_button">Mis Estadísticas</string>
+    <string name="stats_title">Mis Estadísticas</string>
+    <string name="calendar_title">Calendario de Recolección</string>
+    <string name="map_title">Puntos de Reciclaje</string>
+    <string name="recycled_bags_message">Bolsas recicladas este mes: 0</string>
+    <string name="recycled_bags_count">Bolsas recicladas este mes: %d</string>
+    <string name="add_bag_button">+1 Bolsa Reciclada</string>
 </resources>
